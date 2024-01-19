@@ -14,7 +14,7 @@
     "@vuepress/plugin-docsearch": "^2.0.0-beta.51",
     "@vuepress/plugin-theme-data": "^2.0.0-beta.51",
     "prettier": "2.7.1",
-    "vuepress": "^2.0.0-beta.51",
+    "vuepress": "^2.0.0-rc.0",
     "vuepress-plugin-copy-code2": "^2.0.0-beta.97",
     "vuepress-plugin-redirect": "^2.0.0-beta.97"
   },
